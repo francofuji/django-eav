@@ -33,8 +33,6 @@ Classes
 -------
 '''
 from __future__ import unicode_literals
-from builtins import object
-
 
 from django.utils import timezone
 from django.db import models
